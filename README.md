@@ -6,7 +6,7 @@ This is a yacht rental website built with React. It allows users to browse and b
 
 ### Demo
 
-Check out the live demo [here](#https://sardorbek1122.github.io/Yatches-Rent/).
+Check out the live demo [here](https://sardorbek1122.github.io/Yatches-Rent/).
 
 ## Technologies Used
 
