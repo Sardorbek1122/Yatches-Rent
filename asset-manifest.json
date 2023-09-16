@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Yatches-Rent/static/css/main.3ccc6997.css",
+    "main.js": "/Yatches-Rent/static/js/main.35596533.js",
+    "static/media/ava01.jpg": "/Yatches-Rent/static/media/ava01.adf3ff5583c49499d322.jpg",
+    "static/media/slider-3.jpg": "/Yatches-Rent/static/media/slider-3.00f61c4cf381498f8b86.jpg",
+    "static/media/remixicon.svg?t=1590207869815": "/Yatches-Rent/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/slider-2.jpg": "/Yatches-Rent/static/media/slider-2.679cb0c49cacc163af08.jpg",
+    "static/media/yachtimg7.jpg": "/Yatches-Rent/static/media/yachtimg7.91f3de4e35a1cc725ece.jpg",
+    "static/media/yacht-it2.jpg": "/Yatches-Rent/static/media/yacht-it2.9af9a7295d44fb79c3d5.jpg",
+    "static/media/yachtimg4.jpg": "/Yatches-Rent/static/media/yachtimg4.9fcfd531bf5eda64d794.jpg",
+    "static/media/yachtimg1.jpg": "/Yatches-Rent/static/media/yachtimg1.8bdd2bf975753d708670.jpg",
+    "static/media/yacht3.jpg": "/Yatches-Rent/static/media/yacht3.32e49d33c40ea35604c1.jpg",
+    "static/media/slider-1.jpg": "/Yatches-Rent/static/media/slider-1.466dcd7935f96ebf4275.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "/Yatches-Rent/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/Yatches-Rent/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/yachtimg5.jpg": "/Yatches-Rent/static/media/yachtimg5.ef46d01cd9a6694be6e8.jpg",
+    "static/media/yachtimg8.jpg": "/Yatches-Rent/static/media/yachtimg8.1259b3eff400dc7da0ef.jpg",
+    "static/media/yachtimg3.jpg": "/Yatches-Rent/static/media/yachtimg3.73fb248d1f014bc26218.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/Yatches-Rent/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/yacht1.jpg": "/Yatches-Rent/static/media/yacht1.2e0c1aaccc728ad5a483.jpg",
+    "static/media/yachtimg6.jpg": "/Yatches-Rent/static/media/yachtimg6.5fd511efd3f9ebec809c.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/Yatches-Rent/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/yachtimg2.avif": "/Yatches-Rent/static/media/yachtimg2.83a037bcb527b6752d23.avif",
+    "static/media/vawe.webp": "/Yatches-Rent/static/media/vawe.07b47cae57afad3a6721.webp",
+    "static/media/ava02.webp": "/Yatches-Rent/static/media/ava02.3cf9b70ec4dfbdbaf97f.webp",
+    "static/media/ava03.webp": "/Yatches-Rent/static/media/ava03.5c436634d60267460e1a.webp",
+    "static/media/ava04.webp": "/Yatches-Rent/static/media/ava04.3ba643dcb750c7324a9d.webp",
+    "static/media/slick.svg": "/Yatches-Rent/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Yatches-Rent/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Yatches-Rent/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Yatches-Rent/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Yatches-Rent/index.html",
+    "main.3ccc6997.css.map": "/Yatches-Rent/static/css/main.3ccc6997.css.map",
+    "main.35596533.js.map": "/Yatches-Rent/static/js/main.35596533.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ccc6997.css",
+    "static/js/main.35596533.js"
+  ]
+}
